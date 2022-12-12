@@ -1,3 +1,5 @@
+// Sort colours DNF sort @devottam2809
+
 void sortColors(vector<int>& a) {
         int two=a.size()-1;
         int zero=0;
